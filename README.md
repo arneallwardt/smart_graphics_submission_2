@@ -76,13 +76,3 @@ Develop a semantic image search system using OpenAI's CLIP model to retrieve ima
 
 **Tools & Libraries:** CLIP (e.g., `openai/clip-vit-base-patch32`), PIL, cosine similarity  
 **Output:** Retrieved images, similarity evaluations, and documentation of results.
-
-## 📦 Folder Structure
-
-```
-.
-├── task_1/ # CNN for CIFAR-10 classification
-├── task_2/ # Face generation with GAN
-├── task_3/ # Image transformation with InstructPix2Pix
-└── task_4/ # Semantic image search using CLIP
-```
