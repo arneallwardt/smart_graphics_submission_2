@@ -25,6 +25,8 @@ Train and evaluate a Convolutional Neural Network (CNN) using the CIFAR-10 datas
 **Tools & Libraries:** TensorFlow, Keras  
 **Output:** Code, model evaluation, accuracy metrics, training visualizations, and architecture documentation.
 
+You can find all packages necessary to run the notebook `cnn_classifier.ipynb` in the file `requirements_1&2.txt`.
+
 
 ## Task 2 – GAN for Face Generation (12 points)
 
@@ -38,6 +40,7 @@ Use a pre-trained Progressive GAN (progan-128) from TensorFlow Hub to generate a
 **Tools & Libraries:** TensorFlow, TensorFlow Hub  
 **Output:** Generated images and interpolation results.
 
+You can find all packages necessary to run the notebook `gan_face_gen.ipynb` in the file `requirements_1&2.txt`.
 
 ## Task 3 – Creative Image Transformation (10 points)
 
@@ -55,6 +58,11 @@ Use the InstructPix2Pix model to perform artistic transformations on real-world 
 **Tools:** InstructPix2Pix (Hugging Face Space)  
 **Output:** Theory summary, transformed images, and qualitative evaluation.
 
+**Image Sources:**
+- [Roland](./task_3/images/roland.jpg): https://erlebnis-brandenburg.de/wissen-und-geschichten-details/donnerbart
+- [WWZ](./task_3/images/wwz.jpeg): https://www.brandenburg-live.com/wp-content/uploads/2024/08/035-PM-THB_WWZ-c-Oliver-Karaschewski-1920x1280.jpeg
+
+You can find all packages necessary to run the notebook `instruct_pix2pix.ipynb` in the file `requirements_3.txt`.
 
 ## Task 4 – Semantic Image Search with CLIP (14 points)
 
