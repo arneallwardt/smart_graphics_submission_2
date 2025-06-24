@@ -65,7 +65,7 @@ Use the InstructPix2Pix model to perform artistic transformations on real-world 
 - [Friedenswarte](./task_3/images/raw_input/friedenswarte.jpg): https://upload.wikimedia.org/wikipedia/commons/f/f6/Friedenswarte_Brandenburg_max.jpg
 - [Waldmops](./task_3/images/raw_input/waldmops.jpg): https://www.antennebrandenburg.de/content/dam/rbb/ant/bilder/neu_fuer_relaunch/regionen/mein_brandenburg/brandenburg-an-der-havel/DSC02795_waldmops_1280.jpg.jpg/quality=128/size=708x398.jpg
 
-You can find all packages necessary to run the notebook `instruct_pix2pix.ipynb` in the file `requirements_3.txt`.
+You can find all packages necessary to run the notebook `instruct_pix2pix.ipynb` in the file `requirements_3&4.txt`.
 
 ## Task 4 – Semantic Image Search with CLIP (14 points)
 
@@ -87,3 +87,5 @@ Develop a semantic image search system using OpenAI's CLIP model to retrieve ima
 
 **Tools & Libraries:** CLIP (e.g., `openai/clip-vit-base-patch32`), PIL, cosine similarity  
 **Output:** Retrieved images, similarity evaluations, and documentation of results.
+
+You can find all packages necessary to run the notebook `CLIP_semantic_search.ipynb` in the file `requirements_3&4.txt`.

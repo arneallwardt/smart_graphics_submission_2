@@ -8,3 +8,4 @@ safetensors==0.5.3
 torch==2.7.1
 tqdm==4.67.1
 transformers==4.52.4
+gdown==5.2.0
