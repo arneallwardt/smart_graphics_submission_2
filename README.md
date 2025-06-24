@@ -59,8 +59,11 @@ Use the InstructPix2Pix model to perform artistic transformations on real-world 
 **Output:** Theory summary, transformed images, and qualitative evaluation.
 
 **Image Sources:**
-- [Roland](./task_3/images/roland.jpg): https://erlebnis-brandenburg.de/wissen-und-geschichten-details/donnerbart
-- [WWZ](./task_3/images/wwz.jpeg): https://www.brandenburg-live.com/wp-content/uploads/2024/08/035-PM-THB_WWZ-c-Oliver-Karaschewski-1920x1280.jpeg
+- [Roland](./task_3/images/raw_input/roland.jpg): https://erlebnis-brandenburg.de/wissen-und-geschichten-details/donnerbart
+- [WWZ](./task_3/images/raw_input/wwz.jpeg): https://www.brandenburg-live.com/wp-content/uploads/2024/08/035-PM-THB_WWZ-c-Oliver-Karaschewski-1920x1280.jpeg
+- [Jahrtausendbrücke](./task_3/images/raw_input/jahrtausendbrücke.jpg): https://mnd-assets.mynewsdesk.com/image/upload/ar_16:9,c_fill,dpr_auto,f_auto,g_auto,q_auto:good,w_1782/fctmz0vq3wjmqeecgwpd
+- [Friedenswarte](./task_3/images/raw_input/friedenswarte.jpg): https://upload.wikimedia.org/wikipedia/commons/f/f6/Friedenswarte_Brandenburg_max.jpg
+- [Waldmops](./task_3/images/raw_input/waldmops.jpg): https://www.antennebrandenburg.de/content/dam/rbb/ant/bilder/neu_fuer_relaunch/regionen/mein_brandenburg/brandenburg-an-der-havel/DSC02795_waldmops_1280.jpg.jpg/quality=128/size=708x398.jpg
 
 You can find all packages necessary to run the notebook `instruct_pix2pix.ipynb` in the file `requirements_3.txt`.
 
