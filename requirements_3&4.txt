@@ -9,3 +9,5 @@ torch==2.7.1
 tqdm==4.67.1
 transformers==4.52.4
 gdown==5.2.0
+ipyplot==1.1.0
+ftfy==6.3.1
