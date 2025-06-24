@@ -25,6 +25,8 @@ Train and evaluate a Convolutional Neural Network (CNN) using the CIFAR-10 datas
 **Tools & Libraries:** TensorFlow, Keras  
 **Output:** Code, model evaluation, accuracy metrics, training visualizations, and architecture documentation.
 
+You can find all packages necessary to run the notebook `cnn_classifier.ipynb` in the file `requirements_1&2.txt`.
+
 
 ## Task 2 – GAN for Face Generation (12 points)
 
@@ -38,6 +40,7 @@ Use a pre-trained Progressive GAN (progan-128) from TensorFlow Hub to generate a
 **Tools & Libraries:** TensorFlow, TensorFlow Hub  
 **Output:** Generated images and interpolation results.
 
+You can find all packages necessary to run the notebook `gan_face_gen.ipynb` in the file `requirements_1&2.txt`.
 
 ## Task 3 – Creative Image Transformation (10 points)
 
@@ -55,6 +58,14 @@ Use the InstructPix2Pix model to perform artistic transformations on real-world 
 **Tools:** InstructPix2Pix (Hugging Face Space)  
 **Output:** Theory summary, transformed images, and qualitative evaluation.
 
+**Image Sources:**
+- [Roland](./task_3/images/raw_input/roland.jpg): https://erlebnis-brandenburg.de/wissen-und-geschichten-details/donnerbart
+- [WWZ](./task_3/images/raw_input/wwz.jpeg): https://www.brandenburg-live.com/wp-content/uploads/2024/08/035-PM-THB_WWZ-c-Oliver-Karaschewski-1920x1280.jpeg
+- [Jahrtausendbrücke](./task_3/images/raw_input/jahrtausendbruecke.jpg): https://www.stadt-brandenburg.de/fileadmin/user_upload/2018/Jahrtausendbruecke.jpg
+- [Friedenswarte](./task_3/images/raw_input/friedenswarte.jpg): https://upload.wikimedia.org/wikipedia/commons/f/f6/Friedenswarte_Brandenburg_max.jpg
+- [Waldmops](./task_3/images/raw_input/waldmops.jpg): https://www.antennebrandenburg.de/content/dam/rbb/ant/bilder/neu_fuer_relaunch/regionen/mein_brandenburg/brandenburg-an-der-havel/DSC02795_waldmops_1280.jpg.jpg/quality=128/size=708x398.jpg
+
+You can find all packages necessary to run the notebook `instruct_pix2pix.ipynb` in the file `requirements_3.txt`.
 
 ## Task 4 – Semantic Image Search with CLIP (14 points)
 
