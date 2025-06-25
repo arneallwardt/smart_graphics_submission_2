@@ -1,5 +1,6 @@
 # Local files that are downloaded
-task_4/images/
+task_4/images/semantic_search_results/
+task_4/images/travel_images.zip
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

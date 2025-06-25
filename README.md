@@ -85,6 +85,11 @@ Develop a semantic image search system using OpenAI's CLIP model to retrieve ima
 - Choose 3 thematic reference images.
 - Use CLIP to retrieve the most similar images from the custom dataset.
 
+**Image Sources:**
+- [Desert](./task_4/images/img2img_targets/desert.jpg): https://www.ardalpha.de/wissen/natur/naturgewalten/wueste-welt-weltweit-erde-lebensraum-vegetation-trocken-heiss-kalt-regen-sahara-100~_v-img__16__9__xl_-d31c35f8186ebeb80b0cd843a7c267a0e0c81647.jpg?version=1bf23
+- [Cat](./task_4/images/img2img_targets/cat.jpg): https://i.pinimg.com/736x/f3/07/d2/f307d2546dfa425c6df994a787f2f540.jpg
+- [Jaguar](./task_4/images/img2img_targets/jaguar.webp): https://www.wwf.de/fileadmin/_processed_/3/8/csm_Jaguar-Weibchen-Brasilien-Spende-WW1253752-c-WWF-Sweden-Ola-Jennersten_3aecc9d7cd.jpg
+
 **Tools & Libraries:** CLIP (e.g., `openai/clip-vit-base-patch32`), PIL, cosine similarity  
 **Output:** Retrieved images, similarity evaluations, and documentation of results.
 
